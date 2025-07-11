@@ -80,7 +80,7 @@
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshusharma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-sharma-8108187/)
 📧 **Email:** ss8108187@gmail.com  
 📱 **Phone:** +91 81081 87441
 
