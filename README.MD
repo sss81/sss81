@@ -63,6 +63,7 @@
 ### 🎓 Education & Certifications
 
 - 🎓 **B.Sc. IT (2021)**
+- ☁️ **Currently Pursuing: AWS Cloud Architect Course**
 - 🧑‍💻 **Red Hat Certified System Administrator**
 - 🛠 **VMware Certified Data Center Virtualization**
 - 📊 **Data Analytics (Excel & Pivot Tables - Udemy)**
@@ -80,11 +81,10 @@
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshusharma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](mailto:ss8108187@gmail.com)  
 📧 **Email:** ss8108187@gmail.com  
 📱 **Phone:** +91 81081 87441
 
 ---
 
 *“Tech is not just tools, it’s the way I solve human problems.” – Sudhanshu Sharma*
-
